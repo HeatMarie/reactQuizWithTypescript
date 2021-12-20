@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/reactQuizWithTypescript/static/js/main.901bc6c4.js",
+    "static/media/xan-griffin.jpg": "/reactQuizWithTypescript/static/media/xan-griffin.94621fbf72a8d318f576.jpg",
+    "index.html": "/reactQuizWithTypescript/index.html",
+    "main.901bc6c4.js.map": "/reactQuizWithTypescript/static/js/main.901bc6c4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.901bc6c4.js"
+  ]
+}
